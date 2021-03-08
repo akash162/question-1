@@ -1,0 +1,45 @@
+.h2{
+    text-align:center;
+    color:rgb(13, 95, 2);
+}
+.div1{
+    border:2px solid blue;
+    padding-left:20px;
+    width:40%;
+    margin:auto;
+}
+h3{
+    border-bottom:2px solid red;
+    display:inline;
+    padding:3px;
+   
+    
+}
+b{
+    color:green;
+    font-size:18px;
+}
+h4{
+    text-align:center;
+    color:brown
+}
+.eng-box-items{
+    padding:10px;
+    width:50%;
+    margin-top:10px;
+  
+    background-color:black;
+    
+    
+}
+
+    
+    
+
+.nar li{
+    color:rgb(156, 85, 4);
+    margin-bottom:10px;
+}
+ul{
+    list-style-type:square;
+}
